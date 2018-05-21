@@ -1,0 +1,1 @@
+cmd_/home/milkayatalay/Desktop/abuzer/develop.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/milkayatalay/Desktop/abuzer/develop.ko /home/milkayatalay/Desktop/abuzer/develop.o /home/milkayatalay/Desktop/abuzer/develop.mod.o ;  true
